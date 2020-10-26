@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-## A Human Resource analysis to help near retirement empployees, future vacancies and mentorship programs
+## A Human Resource analysis to identify near retirement age employees, future vacancies and mentorship programs
 
 ### Background
 Pewlett-Hackard is a large company that is starting to notice that the 'Baby Boomers' within the company are retiring at an alarming rate.  With the help of a Human Resource analyst, the company is planning to:
